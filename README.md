@@ -1,2 +1,2 @@
-#### merge
-####04/04
+#### Notes
+https://www.udemy.com/the-complete-react-native-and-redux-course/
